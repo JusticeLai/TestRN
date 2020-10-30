@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9e580030-faa7-4411-bd4d-6b681b4007d9" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/gitignore.txt" beforeDir="false" afterPath="$PROJECT_DIR$/gitignore.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="TestRN" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1jVFHLdTvsp4syd4VPo04XznC82" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="tasks.timeTracking" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/APP" />
+      <recent name="$PROJECT_DIR$/src/Mine" />
+      <recent name="$PROJECT_DIR$/src/Home" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e580030-faa7-4411-bd4d-6b681b4007d9" name="Default" comment="" />
+      <created>1603549513232</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603549513232</updated>
+      <workItem from="1603549515193" duration="441000" />
+      <workItem from="1603598055542" duration="10282000" />
+      <workItem from="1603679131036" duration="11391000" />
+      <workItem from="1603881266389" duration="569000" />
+      <workItem from="1603881927276" duration="413000" />
+      <workItem from="1603885159109" duration="5614000" />
+      <workItem from="1603932190278" duration="106000" />
+      <workItem from="1603932780762" duration="222000" />
+      <workItem from="1604049846826" duration="441000" />
+      <workItem from="1604055288296" duration="198000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="272" y="229" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603881505495">
+      <screen x="0" y="23" width="1920" height="1097" />
+    </state>
+    <state x="272" y="229" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.1097@0.23.1920.1097" timestamp="1603881505495" />
+    <state x="682" y="343" key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper" timestamp="1603932956175">
+      <screen x="0" y="23" width="1920" height="1097" />
+    </state>
+    <state x="682" y="343" key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper/0.23.1920.1097@0.23.1920.1097" timestamp="1603932956175" />
+    <state x="446" y="195" key="SettingsEditor" timestamp="1603932992750">
+      <screen x="0" y="23" width="1920" height="1097" />
+    </state>
+    <state x="446" y="195" key="SettingsEditor/0.23.1920.1097@0.23.1920.1097" timestamp="1603932992750" />
+  </component>
+</project>
